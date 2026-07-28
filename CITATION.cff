@@ -13,6 +13,9 @@ authors:
 repository-code: "https://github.com/ashish-code/Magnetic_Resonance_Imaging-Quality_Assessment"
 url: "https://github.com/ashish-code/Magnetic_Resonance_Imaging-Quality_Assessment"
 license: MIT
+doi: 10.5281/zenodo.21635718
+version: "1.0.0"
+date-released: "2026-07-28"
 keywords:
   - medical-imaging
   - mri
