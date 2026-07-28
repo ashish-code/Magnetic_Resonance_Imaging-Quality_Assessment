@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#111C33"/></linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#6D8BFF" stop-opacity="0.28"/><stop offset="1" stop-color="#6D8BFF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="15" fill="none" stroke="#6D8BFF" stroke-opacity="0.22"/>
+  <rect x="64" y="70" width="4" height="150" rx="2" fill="#6D8BFF"/>
+  <text x="88" y="86" fill="#6D8BFF" font-size="15" font-weight="700" letter-spacing="3.2">NO-REFERENCE IQA · 3D CNN · SPIE 2020</text>
+  <text x="86" y="150" fill="#F4F7FB" font-size="48" font-weight="800" letter-spacing="0.5">MRI Quality Assessment</text>
+  <text x="88" y="192" fill="#9AA7BD" font-size="21">Automated no-reference quality assessment of structural</text><text x="88" y="219" fill="#9AA7BD" font-size="21">MRI — 3D CNN, 89% agreement with expert radiologists.</text>
+  <g font-size="15" font-weight="600" fill="#C7D2E4"><g><rect x="88" y="244" width="85" height="30" rx="15" fill="#18233A" stroke="#6D8BFF" stroke-opacity="0.45"/><text x="130.5" y="264" text-anchor="middle">PyTorch</text></g><g><rect x="183" y="244" width="77" height="30" rx="15" fill="#18233A" stroke="#6D8BFF" stroke-opacity="0.45"/><text x="221.5" y="264" text-anchor="middle">3D CNN</text></g><g><rect x="270" y="244" width="69" height="30" rx="15" fill="#18233A" stroke="#6D8BFF" stroke-opacity="0.45"/><text x="304.5" y="264" text-anchor="middle">ABIDE</text></g><g><rect x="349" y="244" width="61" height="30" rx="15" fill="#18233A" stroke="#6D8BFF" stroke-opacity="0.45"/><text x="379.5" y="264" text-anchor="middle">BIQA</text></g><g><rect x="420" y="244" width="77" height="30" rx="15" fill="#18233A" stroke="#6D8BFF" stroke-opacity="0.45"/><text x="458.5" y="264" text-anchor="middle">DeepQC</text></g></g>
+  <g><g transform="translate(886,80)">
+        <rect width="54" height="54" rx="9" fill="#141d33" stroke="#6D8BFF" stroke-width="1.8" stroke-opacity="0.85"/>
+        <ellipse cx="27" cy="27" rx="16" ry="18" fill="none" stroke="#6D8BFF" stroke-width="1.8"/>
+        <path d="M27,10 C18,18 18,36 27,44 M27,10 C36,18 36,36 27,44" fill="none" stroke="#6D8BFF" stroke-width="1.4" stroke-opacity="0.7"/>
+      </g><g transform="translate(952,80)">
+        <rect width="54" height="54" rx="9" fill="#141d33" stroke="#6D8BFF" stroke-width="1.8" stroke-opacity="0.85"/>
+        <ellipse cx="27" cy="27" rx="16" ry="18" fill="none" stroke="#6D8BFF" stroke-width="1.8"/>
+        <path d="M27,10 C18,18 18,36 27,44 M27,10 C36,18 36,36 27,44" fill="none" stroke="#6D8BFF" stroke-width="1.4" stroke-opacity="0.7"/>
+      </g><g transform="translate(1018,80)">
+        <rect width="54" height="54" rx="9" fill="#141d33" stroke="#6D8BFF" stroke-width="1.8" stroke-opacity="0.85"/>
+        <ellipse cx="27" cy="27" rx="16" ry="18" fill="none" stroke="#6D8BFF" stroke-width="1.8"/>
+        <path d="M27,10 C18,18 18,36 27,44 M27,10 C36,18 36,36 27,44" fill="none" stroke="#6D8BFF" stroke-width="1.4" stroke-opacity="0.7"/>
+      </g><g transform="translate(886,150)">
+        <rect width="54" height="54" rx="9" fill="#141d33" stroke="#6D8BFF" stroke-width="1.8" stroke-opacity="0.85"/>
+        <ellipse cx="27" cy="27" rx="16" ry="18" fill="none" stroke="#6D8BFF" stroke-width="1.8"/>
+        <path d="M27,10 C18,18 18,36 27,44 M27,10 C36,18 36,36 27,44" fill="none" stroke="#6D8BFF" stroke-width="1.4" stroke-opacity="0.7"/>
+      </g><g transform="translate(952,150)">
+        <rect width="54" height="54" rx="9" fill="#141d33" stroke="#6D8BFF" stroke-width="1.8" stroke-opacity="0.85"/>
+        <ellipse cx="27" cy="27" rx="16" ry="18" fill="none" stroke="#6D8BFF" stroke-width="1.8"/>
+        <path d="M27,10 C18,18 18,36 27,44 M27,10 C36,18 36,36 27,44" fill="none" stroke="#6D8BFF" stroke-width="1.4" stroke-opacity="0.7"/>
+      </g><g transform="translate(1018,150)">
+        <rect width="54" height="54" rx="9" fill="#141d33" stroke="#6D8BFF" stroke-width="1.8" stroke-opacity="0.85"/>
+        <ellipse cx="27" cy="27" rx="16" ry="18" fill="none" stroke="#6D8BFF" stroke-width="1.8"/>
+        <path d="M27,10 C18,18 18,36 27,44 M27,10 C36,18 36,36 27,44" fill="none" stroke="#6D8BFF" stroke-width="1.4" stroke-opacity="0.7"/>
+      </g><g transform="translate(1096,210)"><circle r="15" fill="#6D8BFF"/><path d="M-7,0 L-2,6 L8,-7" fill="none" stroke="#0B1120" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+</svg>
