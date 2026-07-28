@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21635718.svg)](https://doi.org/10.5281/zenodo.21635718)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8%2B-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
