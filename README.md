@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/banner.svg" alt="MRI Quality Assessment — no-reference deep-learning IQA for structural MRI" width="100%">
+</div>
+
 # MRI Quality Assessment (MRI-QA)
 
 <div align="center">
