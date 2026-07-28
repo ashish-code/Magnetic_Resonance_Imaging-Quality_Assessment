@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software or its methods, please cite the paper below."
+title: "DeepQC: Automated Blind MRI Quality Assessment with 3D CNNs"
+abstract: >-
+  Automated blind MRI quality assessment using a 3D CNN and fully-connected deep
+  network. Trained on ABIDE-1 (15 sites) with strong transfer to novel sites and
+  to Glioblastoma MRI from TCIA.
+type: software
+authors:
+    - given-names: Ashish
+      family-names: Gupta
+      orcid: "https://orcid.org/0000-0002-0670-2375"
+repository-code: "https://github.com/ashish-code/Magnetic_Resonance_Imaging-Quality_Assessment"
+url: "https://github.com/ashish-code/Magnetic_Resonance_Imaging-Quality_Assessment"
+license: MIT
+keywords:
+  - medical-imaging
+  - mri
+  - quality-assessment
+  - deep-learning
+  - convolutional-neural-networks
+  - abide
+preferred-citation:
+  type: conference-paper
+  title: "Quality assessment of brain MRI scans using a dense neural network model and image metrics"
+  authors:
+    - given-names: Ashish
+      family-names: Gupta
+      orcid: "https://orcid.org/0000-0002-0670-2375"
+    - given-names: "A. R."
+      family-names: Sadri
+    - given-names: "S. E."
+      family-names: Viswanath
+    - given-names: "P."
+      family-names: Tiwari
+  collection-title: "Medical Imaging 2020: Physics of Medical Imaging (SPIE)"
+  volume: 11312
+  start: 214
+  end: 221
+  year: 2020
+  # TODO (optional): add doi; expand co-author first names if you like
